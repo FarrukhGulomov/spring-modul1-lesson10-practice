@@ -9,6 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 @Entity(name = "groups")
+@Table(uniqueConstraints = @UniqueConstraint(columnNames ={"name","faculty_id"}))
 public class Group {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
