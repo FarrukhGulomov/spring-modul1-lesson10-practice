@@ -1,0 +1,167 @@
+[
+  {
+    "id": 3,
+    "firstName": "Barchinoy",
+    "lastName": "Gulomova",
+    "address": {
+      "id": 6,
+      "city": "Bukhara",
+      "district": "Bukhara",
+      "street": "Mijana str 109 Bld"
+    },
+    "group": {
+      "id": 12,
+      "name": "Matem-1",
+      "faculty": {
+        "id": 4,
+        "name": "Matematika",
+        "university": {
+          "id": 3,
+          "name": "Milliy Universiteti",
+          "address": {
+            "id": 3,
+            "city": "Talabalar ko'chasi 17 uy",
+            "district": "Olmazor tumanu",
+            "street": "Toshkent shahri"
+          }
+        }
+      }
+    },
+    "subjects": [
+      {
+        "id": 2,
+        "name": "Accountant"
+      },
+      {
+        "id": 4,
+        "name": "Information technology"
+      },
+      {
+        "id": 5,
+        "name": "Java"
+      },
+      {
+        "id": 6,
+        "name": "English"
+      },
+      {
+        "id": 7,
+        "name": "Russian"
+      },
+      {
+        "id": 9,
+        "name": "History"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "firstName": "Ferangiz",
+    "lastName": "Gulomova",
+    "address": {
+      "id": 7,
+      "city": "Bukhara",
+      "district": "Bukhara",
+      "street": "Mijana str 109 Bld"
+    },
+    "group": {
+      "id": 14,
+      "name": "Matem-3",
+      "faculty": {
+        "id": 4,
+        "name": "Matematika",
+        "university": {
+          "id": 3,
+          "name": "Milliy Universiteti",
+          "address": {
+            "id": 3,
+            "city": "Talabalar ko'chasi 17 uy",
+            "district": "Olmazor tumanu",
+            "street": "Toshkent shahri"
+          }
+        }
+      }
+    },
+    "subjects": [
+      {
+        "id": 2,
+        "name": "Accountant"
+      },
+      {
+        "id": 4,
+        "name": "Information technology"
+      },
+      {
+        "id": 5,
+        "name": "Java"
+      },
+      {
+        "id": 6,
+        "name": "English"
+      },
+      {
+        "id": 7,
+        "name": "Russian"
+      },
+      {
+        "id": 9,
+        "name": "History"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "firstName": "Ferangiz",
+    "lastName": "Gulomova",
+    "address": {
+      "id": 8,
+      "city": "Bukhara",
+      "district": "Bukhara",
+      "street": "Mijana str 109 Bld"
+    },
+    "group": {
+      "id": 14,
+      "name": "Matem-3",
+      "faculty": {
+        "id": 4,
+        "name": "Matematika",
+        "university": {
+          "id": 3,
+          "name": "Milliy Universiteti",
+          "address": {
+            "id": 3,
+            "city": "Talabalar ko'chasi 17 uy",
+            "district": "Olmazor tumanu",
+            "street": "Toshkent shahri"
+          }
+        }
+      }
+    },
+    "subjects": [
+      {
+        "id": 2,
+        "name": "Accountant"
+      },
+      {
+        "id": 4,
+        "name": "Information technology"
+      },
+      {
+        "id": 5,
+        "name": "Java"
+      },
+      {
+        "id": 6,
+        "name": "English"
+      },
+      {
+        "id": 7,
+        "name": "Russian"
+      },
+      {
+        "id": 9,
+        "name": "History"
+      }
+    ]
+  }
+]

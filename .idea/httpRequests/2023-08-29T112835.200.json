@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "firstName": "Farrukh",
+    "lastName": "Gulomov",
+    "address": {
+      "id": 4,
+      "city": "Bukhara",
+      "district": "Bukhara",
+      "street": "Mijana str 109 Bld"
+    },
+    "group": {
+      "id": 1,
+      "name": "XBA-91",
+      "faculty": {
+        "id": 1,
+        "name": "Hisob-Iqtisod",
+        "university": {
+          "id": 2,
+          "name": "Toshkent Moliya instituti",
+          "address": {
+            "id": 2,
+            "city": "Toshkent",
+            "district": "Yunusobod",
+            "street": "A Temur ko'chasi 5 uy"
+          }
+        }
+      }
+    },
+    "subjects": [
+      {
+        "id": 1,
+        "name": "Math"
+      },
+      {
+        "id": 2,
+        "name": "Accountant"
+      },
+      {
+        "id": 3,
+        "name": "Audit"
+      },
+      {
+        "id": 4,
+        "name": "Information technology"
+      },
+      {
+        "id": 6,
+        "name": "English"
+      }
+    ]
+  }
+]

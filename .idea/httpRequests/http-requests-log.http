@@ -1,0 +1,706 @@
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163852.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163851.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163850.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163849-1.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163849.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163848.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163847.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163845.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163844.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163843.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163842.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163841-1.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163841.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163840.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163839.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163837.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163836-1.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163836.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163834.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163833.200.txt
+
+###
+
+POST http://localhost:8080/student
+Content-Type: application/json
+Content-Length: 183
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "firstName": "Ferangiz",
+  "lastName": "Gulomova",
+  "city": "Bukhara",
+  "district": "Bukhara",
+  "street": "Mijana str 109 Bld",
+  "groupId": 14,
+  "subjectsId": [7,2,5,4,6,9]
+}
+
+<> 2023-08-29T163831.200.txt
+
+###
+
+GET http://localhost:8080/student/forMinistry
+Content-Type: application/json
+Content-Length: 16
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "page": 10
+}
+
+<> 2023-08-29T154504.400.json
+
+###
+
+GET http://localhost:8080/student/forMinistry
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T154441.400.json
+
+###
+
+GET http://localhost:8080/student/forMinistry
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T154429.400.json
+
+###
+
+GET http://localhost:8080/student/forMinistry/10
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T154423.404.json
+
+###
+
+DELETE http://localhost:8080/faculty/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114627.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114613.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114611.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/4
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114608.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114605.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/11
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114600.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/111
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114352.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114349.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/6
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114345.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114340.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114112.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/7
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114109.200.txt
+
+###
+
+DELETE http://localhost:8080/faculty/8
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T114053.200.txt
+
+###
+
+GET http://localhost:8080/student/byStudentId/10
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+###
+
+GET http://localhost:8080/student/byStudentId/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T113513.200.json
+
+###
+
+GET http://localhost:8080/student/byStudentId/5
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T113504.200.json
+
+###
+
+GET http://localhost:8080/student/byStudentId/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T113451.200.json
+
+###
+
+GET http://localhost:8080/student/byStudentId/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T113437.200.json
+
+###
+
+GET http://localhost:8080/student/byGroupId/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T112851.200.json
+
+###
+
+GET http://localhost:8080/student/byGroupId/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T112835.200.json
+
+###
+
+GET http://localhost:8080/student/byFAcultyId/1
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T112043.200.json
+
+###
+
+GET http://localhost:8080/student/byFAcultyId/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T112037.200.json
+
+###
+
+GET http://localhost:8080/student/byFAcultyId/2
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T112031.200.json
+
+###
+
+GET http://localhost:8080/student/byUniversityId/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T105159.200.json
+
+###
+
+GET http://localhost:8080/student/byUniversityId/3
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-29T104630.500.json
+
+###
+

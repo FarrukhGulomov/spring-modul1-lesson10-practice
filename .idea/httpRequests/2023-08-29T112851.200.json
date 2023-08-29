@@ -1,0 +1,57 @@
+[
+  {
+    "id": 2,
+    "firstName": "Mirshod",
+    "lastName": "Gulomov",
+    "address": {
+      "id": 5,
+      "city": "Bukhara",
+      "district": "Bukhara",
+      "street": "Mijana str 110 Bld"
+    },
+    "group": {
+      "id": 2,
+      "name": "XBA-90",
+      "faculty": {
+        "id": 1,
+        "name": "Hisob-Iqtisod",
+        "university": {
+          "id": 2,
+          "name": "Toshkent Moliya instituti",
+          "address": {
+            "id": 2,
+            "city": "Toshkent",
+            "district": "Yunusobod",
+            "street": "A Temur ko'chasi 5 uy"
+          }
+        }
+      }
+    },
+    "subjects": [
+      {
+        "id": 2,
+        "name": "Accountant"
+      },
+      {
+        "id": 4,
+        "name": "Information technology"
+      },
+      {
+        "id": 5,
+        "name": "Java"
+      },
+      {
+        "id": 6,
+        "name": "English"
+      },
+      {
+        "id": 7,
+        "name": "Russian"
+      },
+      {
+        "id": 9,
+        "name": "History"
+      }
+    ]
+  }
+]
