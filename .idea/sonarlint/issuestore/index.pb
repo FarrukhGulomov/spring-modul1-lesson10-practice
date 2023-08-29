@@ -1,3 +1,27 @@
 
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+m
+=practice/src/main/java/uz/pdp/online/PracticeApplication.java,b\9\b9f0c705fc66571a10b3a5095e686e32432ac64b
+h
+8practice/src/main/java/uz/pdp/online/entity/Address.java,4\e\4e6b252385de5cd3d44bfd32cc5d06acb9907d1e
+h
+8practice/src/main/java/uz/pdp/online/entity/Subject.java,3\1\3102eec1609dd7f0c54917b2399b3580c57f2970
+v
+Fpractice/src/main/java/uz/pdp/online/controller/SubjectController.java,e\1\e15240d7fcd360c0b2799b21c969522bb8c9ce02
+y
+Ipractice/src/main/java/uz/pdp/online/controller/UniversityController.java,e\a\ea254a4e91e68f5012a2ab923f11111830631c05
+l
+<practice/src/main/java/uz/pdp/online/payload/FacultyDto.java,e\a\eab568166b59703c914ab7164782ccd634c8b4ca
+j
+:practice/src/main/java/uz/pdp/online/payload/GroupDto.java,8\3\83e2e8dd3cba65797f07ad81ac5233ba2360e556
+o
+?practice/src/main/java/uz/pdp/online/payload/UniversityDto.java,b\6\b611465c73c90cff832193c394d1b737fa942f61
+v
+Fpractice/src/main/java/uz/pdp/online/repository/AddressRepository.java,8\c\8c489883acf8e86a3f540ba87198df334f459c0c
+t
+Dpractice/src/main/java/uz/pdp/online/repository/GroupRepository.java,2\2\22cc37055c779c3c3425e6b15357fe24d5fdc6ba
+v
+Fpractice/src/main/java/uz/pdp/online/repository/SubjectRepository.java,7\5\75cc029e40de2140b112ca480fe8079c8b1220ba
+y
+Ipractice/src/main/java/uz/pdp/online/repository/UniversityRepository.java,0\0\00da0467e0f09a9281db4b9e53874b44eee009af

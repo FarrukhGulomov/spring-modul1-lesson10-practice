@@ -4,29 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82c8dfd-7377-4e96-b28d-7913ed1bed55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a82c8dfd-7377-4e96-b28d-7913ed1bed55" name="Changes" comment="'finished student methods'">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/13f1ba91-fa45-4f7c-a3de-09e6fa3225a4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/13f1ba91-fa45-4f7c-a3de-09e6fa3225a4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/FacultyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/FacultyController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/GroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/GroupController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/SubjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/SubjectController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/UniversityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/UniversityController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/FacultyDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/FacultyDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/GroupDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/GroupDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/StudentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/StudentDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/UniversityDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/UniversityDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/AddressRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/AddressRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/FacultyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/FacultyRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/GroupRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/GroupRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/SubjectRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/SubjectRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/UniversityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/UniversityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/StudentController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +45,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/Java/Spring/1-modul/10-dars/spring-modul1-lesson10-practice",
     "node.js.detected.package.eslint": "true",
@@ -73,6 +57,7 @@
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "spring.configuration.checksum": "8c40400c009918b5f10b73f9a0e47398",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -130,11 +115,25 @@
       <workItem from="1693207423681" duration="185000" />
       <workItem from="1693283270923" duration="844000" />
       <workItem from="1693285063420" duration="98000" />
-      <workItem from="1693285180421" duration="11846000" />
+      <workItem from="1693285180421" duration="12254000" />
+      <workItem from="1693325147653" duration="1000000" />
     </task>
+    <task id="LOCAL-00001" summary="'finished student methods'">
+      <option name="closed" value="true" />
+      <created>1693310570034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693310570034</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="'finished student methods'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'finished student methods'" />
   </component>
 </project>

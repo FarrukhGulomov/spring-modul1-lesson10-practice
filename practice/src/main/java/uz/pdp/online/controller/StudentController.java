@@ -111,4 +111,41 @@ public class StudentController {
     public Student getStudentById(@PathVariable Integer id){
         return studentRepository.getStudentBy_Id(id);
     }
+
+    @DeleteMapping("/{id}")
+    public String deleteStudent(@PathVariable Integer id){
+        Optional<Student> optionalStudent = studentRepository.findById(id);
+        if(optionalStudent.isEmpty()) return "Student is not found by "+id+" id";
+         studentRepository.deleteById(id);
+        return "Student is deleted by "+id+" id";
+    }
+    @PutMapping("/{id}")
+    public String editStudent(@PathVariable Integer id,@RequestBody StudentDto dto){
+        Optional<Student> optionalStudent = studentRepository.findById(id);
+        if(optionalStudent.isEmpty()) return "Student is not found!";
+        Student student = optionalStudent.get();
+        student.setFirstName(dto.getFirstName());
+        student.setLastName(dto.getLastName());
+        Address address = student.getAddress();
+        address.setCity(dto.getCity());
+        address.setDistrict(dto.getDistrict());
+        address.setStreet(dto.getStreet());
+        Address savedAddress = addressRepository.save(address);
+        Optional<Group> optionalGroup = groupRepository.findById(dto.getGroupId());
+        if(optionalStudent.isEmpty()) return "Group is not found!";
+        Group group = optionalGroup.get();
+        student.setGroup(group);
+        List<Subject> subjectList=new ArrayList<>();
+        for (Integer subjectId : dto.getSubjectsId()) {
+            Optional<Subject> optionalSubject = subjectRepository.findById(subjectId);
+            if(optionalSubject.isEmpty()) return "Subject is not found!";
+            Subject subject = optionalSubject.get();
+            subjectList.add(subject);
+        }
+        student.setSubjects(subjectList);
+        studentRepository.save(student);
+        return student.getFirstName()+student.getLastName()+" student is edited!";
+
+
+    }
 }
