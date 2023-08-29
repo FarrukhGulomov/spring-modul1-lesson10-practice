@@ -1,10 +1,10 @@
-package uz.pdp.online.entity.controller;
+package uz.pdp.online.controller;
 
 import org.springframework.web.bind.annotation.*;
 import uz.pdp.online.entity.Faculty;
 import uz.pdp.online.entity.Group;
 import uz.pdp.online.entity.payload.GroupDto;
-import uz.pdp.online.entity.repository.FacultyRepository;
+import uz.pdp.online.repository.FacultyRepository;
 import uz.pdp.online.entity.repository.GroupRepository;
 
 import java.util.List;

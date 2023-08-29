@@ -1,4 +1,4 @@
-package uz.pdp.online.entity.controller;
+package uz.pdp.online.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;

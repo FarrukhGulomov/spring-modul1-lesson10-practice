@@ -1,4 +1,4 @@
-package uz.pdp.online.entity.repository;
+package uz.pdp.online.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;

@@ -1,10 +1,10 @@
-package uz.pdp.online.entity.controller;
+package uz.pdp.online.controller;
 
 import org.springframework.web.bind.annotation.*;
 import uz.pdp.online.entity.Faculty;
 import uz.pdp.online.entity.University;
 import uz.pdp.online.entity.payload.FacultyDto;
-import uz.pdp.online.entity.repository.FacultyRepository;
+import uz.pdp.online.repository.FacultyRepository;
 import uz.pdp.online.entity.repository.UniversityRepository;
 
 import java.util.ArrayList;
@@ -57,6 +57,33 @@ public class FacultyController {
             return facultyRepository.getFacultyListByUniversityId(universityId);
         }
         return new ArrayList<Faculty>();
+    }
+
+    @DeleteMapping("/{id}")
+
+    public String deleteFaculty(@PathVariable Integer id) {
+        Optional<Faculty> optionalFaculty = facultyRepository.findById(id);
+        if (optionalFaculty.isEmpty()) return "faculty is not found!";
+        try {
+            facultyRepository.deleteById(id);
+            return "Faculty is deleted!";
+        } catch (Exception e) {
+            return "Error in deleting!";
+        }
+    }
+
+    @PutMapping("/{id}")
+    public String editFaculty(@PathVariable Integer id, @RequestBody FacultyDto dto) {
+        Optional<Faculty> optionalFaculty = facultyRepository.findById(id);
+        if (optionalFaculty.isEmpty()) return "Faculty is not found!";
+        Faculty faculty = optionalFaculty.get();
+        faculty.setName(dto.getFacultyName());
+        Optional<University> optionalUniversity = universityRepository.findById(dto.getUniversityId());
+        if(optionalUniversity.isEmpty()) return "University is not found!";
+        University university = optionalUniversity.get();
+        faculty.setUniversity(university);
+        facultyRepository.save(faculty);
+        return "Faculty is edited!";
     }
 
 }

@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a82c8dfd-7377-4e96-b28d-7913ed1bed55" name="Changes" comment="" />
+    <list default="true" id="a82c8dfd-7377-4e96-b28d-7913ed1bed55" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/FacultyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/FacultyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/GroupController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/GroupController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/SubjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/SubjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/controller/UniversityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/controller/UniversityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/FacultyDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/FacultyDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/GroupDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/GroupDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/StudentDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/StudentDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/payload/UniversityDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/payload/UniversityDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/AddressRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/AddressRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/FacultyRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/FacultyRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/GroupRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/GroupRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/SubjectRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/SubjectRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/entity/repository/UniversityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/uz/pdp/online/repository/UniversityRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2UbTk7nmQveXiFuMpYGYsGdxW6Q" />
   <component name="ProjectViewState">
@@ -20,12 +56,69 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "E:/Java/Spring/1-modul/10-dars/spring-modul1-lesson10-practice",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\Spring\1-modul\10-dars\spring-modul1-lesson10-practice\practice\src\main\java\uz\pdp\online" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PracticeApplication">
+    <configuration name="generated-requests | #32" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="32" requestIdentifier="#32" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #37" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="37" requestIdentifier="#37" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #38" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="38" requestIdentifier="#38" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #39" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="39" requestIdentifier="#39" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #41" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="41" requestIdentifier="#41" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="PracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="uz.pdp.online.PracticeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.generated-requests | #32" />
+        <item itemvalue="HTTP Request.generated-requests | #41" />
+        <item itemvalue="HTTP Request.generated-requests | #39" />
+        <item itemvalue="HTTP Request.generated-requests | #38" />
+        <item itemvalue="HTTP Request.generated-requests | #37" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,6 +128,9 @@
       <option name="presentableId" value="Default" />
       <updated>1693207423680</updated>
       <workItem from="1693207423681" duration="185000" />
+      <workItem from="1693283270923" duration="844000" />
+      <workItem from="1693285063420" duration="98000" />
+      <workItem from="1693285180421" duration="11846000" />
     </task>
     <servers />
   </component>
